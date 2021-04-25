@@ -1,0 +1,2 @@
+Angular snippets
+Angular language services
